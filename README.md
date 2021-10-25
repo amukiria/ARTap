@@ -1,2 +1,2 @@
-# ARTap
-AR Tap to Place project
+# ARTap in UNity
+this is a AR Tap to place Android app using plavne detection.
